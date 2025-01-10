@@ -1,0 +1,6 @@
+PromotionID,OnlineFlag,OfflineFlag,PromotionType
+Promo1,N,Y,Flash Sale
+Promo2,Y,Y,Flash Sale
+Promo3,Y,Y,Loyalty Bonus
+Promo4,N,Y,Seasonal Discount
+Promo5,Y,Y,Loyalty Bonus

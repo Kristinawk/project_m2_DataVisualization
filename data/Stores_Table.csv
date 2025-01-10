@@ -1,0 +1,9 @@
+StoreID,StoreName,PostalCode,Region,Channel,OpeningYear,LastRefurbishmentYear,SquareMeters
+Store1,Allison Hill,45583,Asia,Standalone,2001,2021,637.47
+Store2,Noah Rhodes,50298,Europe,Standalone,2019,2011,413.34
+Store3,Angie Henderson,13177,Asia,Standalone,1995,2024,984.07
+Store4,Daniel Wagner,45583,Asia,Online,1991,2016,493.42
+Store5,Cristian Santos,12657,Asia,Retail Park,2017,2009,866.94
+Store6,Connie Lawrence,79632,Asia,Shopping Center,2010,2015,696.29
+Store7,Abigail Shaffer,13177,Australia,Retail Park,1990,2014,477.97
+Store8,Gina Moore,13177,North America,Standalone,2001,2014,62.6

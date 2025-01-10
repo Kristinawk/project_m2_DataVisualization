@@ -1,0 +1,501 @@
+ProductID,Division,Category
+Product1,Men,Hair Care
+Product2,Unisex,Perfume
+Product3,Women,Make-up
+Product4,Women,Accessories
+Product5,Women,Make-up
+Product6,Men,Make-up
+Product7,Women,Perfume
+Product8,Men,Skincare
+Product9,Women,Make-up
+Product10,Unisex,Hair Care
+Product11,Unisex,Skincare
+Product12,Family,Accessories
+Product13,Unisex,Perfume
+Product14,Family,Accessories
+Product15,Unisex,Skincare
+Product16,Men,Skincare
+Product17,Unisex,Skincare
+Product18,Family,Accessories
+Product19,Family,Skincare
+Product20,Women,Accessories
+Product21,Men,Skincare
+Product22,Unisex,Hair Care
+Product23,Women,Skincare
+Product24,Unisex,Accessories
+Product25,Unisex,Make-up
+Product26,Women,Skincare
+Product27,Women,Make-up
+Product28,Women,Hair Care
+Product29,Women,Perfume
+Product30,Women,Hair Care
+Product31,Unisex,Skincare
+Product32,Women,Make-up
+Product33,Men,Make-up
+Product34,Family,Accessories
+Product35,Women,Make-up
+Product36,Women,Accessories
+Product37,Unisex,Perfume
+Product38,Women,Skincare
+Product39,Women,Accessories
+Product40,Women,Perfume
+Product41,Unisex,Make-up
+Product42,Women,Make-up
+Product43,Family,Perfume
+Product44,Unisex,Make-up
+Product45,Family,Perfume
+Product46,Unisex,Accessories
+Product47,Women,Accessories
+Product48,Family,Perfume
+Product49,Unisex,Accessories
+Product50,Men,Accessories
+Product51,Women,Accessories
+Product52,Unisex,Hair Care
+Product53,Men,Skincare
+Product54,Unisex,Make-up
+Product55,Men,Hair Care
+Product56,Women,Accessories
+Product57,Family,Perfume
+Product58,Men,Accessories
+Product59,Unisex,Skincare
+Product60,Women,Accessories
+Product61,Men,Perfume
+Product62,Unisex,Skincare
+Product63,Unisex,Accessories
+Product64,Unisex,Skincare
+Product65,Men,Make-up
+Product66,Men,Make-up
+Product67,Men,Accessories
+Product68,Family,Skincare
+Product69,Men,Perfume
+Product70,Men,Accessories
+Product71,Men,Make-up
+Product72,Family,Make-up
+Product73,Men,Accessories
+Product74,Unisex,Skincare
+Product75,Men,Make-up
+Product76,Unisex,Skincare
+Product77,Unisex,Make-up
+Product78,Unisex,Make-up
+Product79,Family,Hair Care
+Product80,Family,Make-up
+Product81,Family,Perfume
+Product82,Men,Accessories
+Product83,Unisex,Accessories
+Product84,Family,Skincare
+Product85,Family,Make-up
+Product86,Men,Perfume
+Product87,Family,Skincare
+Product88,Men,Hair Care
+Product89,Women,Skincare
+Product90,Family,Skincare
+Product91,Women,Make-up
+Product92,Men,Hair Care
+Product93,Unisex,Skincare
+Product94,Family,Perfume
+Product95,Men,Perfume
+Product96,Unisex,Accessories
+Product97,Unisex,Hair Care
+Product98,Women,Hair Care
+Product99,Men,Accessories
+Product100,Unisex,Skincare
+Product101,Family,Hair Care
+Product102,Family,Perfume
+Product103,Women,Perfume
+Product104,Unisex,Make-up
+Product105,Men,Hair Care
+Product106,Family,Skincare
+Product107,Unisex,Accessories
+Product108,Unisex,Accessories
+Product109,Women,Skincare
+Product110,Family,Make-up
+Product111,Family,Accessories
+Product112,Men,Hair Care
+Product113,Family,Make-up
+Product114,Men,Hair Care
+Product115,Family,Perfume
+Product116,Women,Make-up
+Product117,Family,Accessories
+Product118,Men,Make-up
+Product119,Men,Make-up
+Product120,Women,Make-up
+Product121,Family,Make-up
+Product122,Family,Hair Care
+Product123,Women,Perfume
+Product124,Family,Skincare
+Product125,Family,Make-up
+Product126,Men,Accessories
+Product127,Family,Make-up
+Product128,Family,Accessories
+Product129,Women,Hair Care
+Product130,Women,Accessories
+Product131,Unisex,Skincare
+Product132,Men,Perfume
+Product133,Family,Accessories
+Product134,Family,Accessories
+Product135,Unisex,Perfume
+Product136,Family,Skincare
+Product137,Men,Make-up
+Product138,Unisex,Accessories
+Product139,Men,Perfume
+Product140,Unisex,Hair Care
+Product141,Unisex,Perfume
+Product142,Women,Hair Care
+Product143,Men,Skincare
+Product144,Family,Make-up
+Product145,Family,Perfume
+Product146,Men,Accessories
+Product147,Family,Skincare
+Product148,Family,Perfume
+Product149,Men,Accessories
+Product150,Unisex,Perfume
+Product151,Men,Hair Care
+Product152,Unisex,Perfume
+Product153,Family,Perfume
+Product154,Family,Perfume
+Product155,Family,Skincare
+Product156,Women,Perfume
+Product157,Unisex,Accessories
+Product158,Women,Hair Care
+Product159,Women,Hair Care
+Product160,Men,Perfume
+Product161,Women,Skincare
+Product162,Men,Skincare
+Product163,Men,Accessories
+Product164,Women,Perfume
+Product165,Unisex,Hair Care
+Product166,Unisex,Skincare
+Product167,Unisex,Perfume
+Product168,Unisex,Skincare
+Product169,Unisex,Skincare
+Product170,Women,Hair Care
+Product171,Women,Make-up
+Product172,Family,Accessories
+Product173,Unisex,Accessories
+Product174,Women,Hair Care
+Product175,Family,Skincare
+Product176,Unisex,Perfume
+Product177,Men,Skincare
+Product178,Family,Hair Care
+Product179,Women,Accessories
+Product180,Men,Skincare
+Product181,Men,Accessories
+Product182,Men,Perfume
+Product183,Family,Accessories
+Product184,Women,Accessories
+Product185,Men,Make-up
+Product186,Unisex,Make-up
+Product187,Men,Make-up
+Product188,Men,Accessories
+Product189,Family,Hair Care
+Product190,Family,Accessories
+Product191,Women,Hair Care
+Product192,Unisex,Hair Care
+Product193,Family,Make-up
+Product194,Men,Skincare
+Product195,Women,Perfume
+Product196,Men,Make-up
+Product197,Men,Make-up
+Product198,Family,Skincare
+Product199,Women,Perfume
+Product200,Unisex,Accessories
+Product201,Unisex,Accessories
+Product202,Family,Make-up
+Product203,Family,Perfume
+Product204,Women,Make-up
+Product205,Unisex,Hair Care
+Product206,Unisex,Make-up
+Product207,Unisex,Make-up
+Product208,Men,Accessories
+Product209,Unisex,Accessories
+Product210,Men,Accessories
+Product211,Women,Hair Care
+Product212,Men,Accessories
+Product213,Women,Perfume
+Product214,Unisex,Skincare
+Product215,Unisex,Perfume
+Product216,Women,Perfume
+Product217,Family,Accessories
+Product218,Women,Skincare
+Product219,Family,Skincare
+Product220,Men,Skincare
+Product221,Men,Hair Care
+Product222,Men,Accessories
+Product223,Unisex,Skincare
+Product224,Men,Hair Care
+Product225,Family,Make-up
+Product226,Men,Make-up
+Product227,Women,Hair Care
+Product228,Women,Hair Care
+Product229,Unisex,Accessories
+Product230,Women,Accessories
+Product231,Family,Make-up
+Product232,Men,Skincare
+Product233,Unisex,Make-up
+Product234,Men,Skincare
+Product235,Men,Skincare
+Product236,Family,Accessories
+Product237,Women,Perfume
+Product238,Women,Perfume
+Product239,Men,Hair Care
+Product240,Unisex,Accessories
+Product241,Women,Skincare
+Product242,Unisex,Perfume
+Product243,Women,Skincare
+Product244,Unisex,Perfume
+Product245,Family,Perfume
+Product246,Unisex,Perfume
+Product247,Family,Accessories
+Product248,Family,Make-up
+Product249,Unisex,Skincare
+Product250,Family,Accessories
+Product251,Men,Accessories
+Product252,Family,Accessories
+Product253,Women,Accessories
+Product254,Unisex,Accessories
+Product255,Men,Hair Care
+Product256,Unisex,Skincare
+Product257,Women,Accessories
+Product258,Women,Skincare
+Product259,Women,Hair Care
+Product260,Family,Hair Care
+Product261,Family,Skincare
+Product262,Unisex,Perfume
+Product263,Unisex,Make-up
+Product264,Men,Perfume
+Product265,Men,Perfume
+Product266,Unisex,Perfume
+Product267,Family,Accessories
+Product268,Women,Hair Care
+Product269,Unisex,Perfume
+Product270,Men,Hair Care
+Product271,Family,Skincare
+Product272,Unisex,Make-up
+Product273,Unisex,Skincare
+Product274,Family,Skincare
+Product275,Unisex,Accessories
+Product276,Family,Make-up
+Product277,Women,Skincare
+Product278,Family,Skincare
+Product279,Family,Make-up
+Product280,Family,Make-up
+Product281,Unisex,Skincare
+Product282,Unisex,Make-up
+Product283,Family,Skincare
+Product284,Unisex,Skincare
+Product285,Men,Accessories
+Product286,Men,Perfume
+Product287,Unisex,Skincare
+Product288,Unisex,Hair Care
+Product289,Family,Perfume
+Product290,Women,Perfume
+Product291,Unisex,Perfume
+Product292,Men,Accessories
+Product293,Family,Skincare
+Product294,Unisex,Accessories
+Product295,Men,Skincare
+Product296,Men,Accessories
+Product297,Women,Accessories
+Product298,Family,Hair Care
+Product299,Family,Accessories
+Product300,Women,Make-up
+Product301,Women,Hair Care
+Product302,Family,Accessories
+Product303,Family,Perfume
+Product304,Unisex,Make-up
+Product305,Unisex,Make-up
+Product306,Women,Make-up
+Product307,Unisex,Hair Care
+Product308,Men,Accessories
+Product309,Unisex,Accessories
+Product310,Unisex,Perfume
+Product311,Men,Perfume
+Product312,Women,Make-up
+Product313,Men,Perfume
+Product314,Unisex,Hair Care
+Product315,Women,Accessories
+Product316,Unisex,Make-up
+Product317,Men,Perfume
+Product318,Men,Hair Care
+Product319,Unisex,Hair Care
+Product320,Family,Perfume
+Product321,Family,Accessories
+Product322,Men,Perfume
+Product323,Men,Make-up
+Product324,Family,Perfume
+Product325,Family,Hair Care
+Product326,Unisex,Perfume
+Product327,Unisex,Accessories
+Product328,Family,Skincare
+Product329,Unisex,Perfume
+Product330,Unisex,Accessories
+Product331,Women,Accessories
+Product332,Unisex,Hair Care
+Product333,Men,Accessories
+Product334,Unisex,Accessories
+Product335,Unisex,Accessories
+Product336,Family,Accessories
+Product337,Men,Make-up
+Product338,Unisex,Make-up
+Product339,Unisex,Hair Care
+Product340,Women,Perfume
+Product341,Unisex,Accessories
+Product342,Unisex,Perfume
+Product343,Women,Perfume
+Product344,Family,Hair Care
+Product345,Unisex,Accessories
+Product346,Women,Accessories
+Product347,Men,Skincare
+Product348,Family,Perfume
+Product349,Men,Perfume
+Product350,Men,Make-up
+Product351,Women,Skincare
+Product352,Unisex,Make-up
+Product353,Women,Make-up
+Product354,Women,Make-up
+Product355,Women,Hair Care
+Product356,Women,Hair Care
+Product357,Family,Make-up
+Product358,Unisex,Skincare
+Product359,Men,Perfume
+Product360,Men,Skincare
+Product361,Unisex,Accessories
+Product362,Men,Hair Care
+Product363,Unisex,Perfume
+Product364,Men,Perfume
+Product365,Women,Accessories
+Product366,Men,Accessories
+Product367,Unisex,Make-up
+Product368,Unisex,Hair Care
+Product369,Unisex,Hair Care
+Product370,Unisex,Skincare
+Product371,Unisex,Make-up
+Product372,Family,Make-up
+Product373,Family,Make-up
+Product374,Men,Make-up
+Product375,Unisex,Hair Care
+Product376,Men,Hair Care
+Product377,Unisex,Make-up
+Product378,Unisex,Skincare
+Product379,Family,Perfume
+Product380,Family,Perfume
+Product381,Women,Skincare
+Product382,Family,Make-up
+Product383,Women,Hair Care
+Product384,Women,Perfume
+Product385,Women,Accessories
+Product386,Women,Accessories
+Product387,Women,Skincare
+Product388,Men,Make-up
+Product389,Family,Perfume
+Product390,Women,Make-up
+Product391,Unisex,Perfume
+Product392,Family,Skincare
+Product393,Family,Skincare
+Product394,Women,Accessories
+Product395,Men,Make-up
+Product396,Women,Accessories
+Product397,Men,Make-up
+Product398,Unisex,Accessories
+Product399,Family,Hair Care
+Product400,Unisex,Hair Care
+Product401,Men,Hair Care
+Product402,Men,Hair Care
+Product403,Unisex,Perfume
+Product404,Men,Hair Care
+Product405,Unisex,Skincare
+Product406,Family,Skincare
+Product407,Unisex,Perfume
+Product408,Family,Hair Care
+Product409,Unisex,Hair Care
+Product410,Men,Hair Care
+Product411,Unisex,Accessories
+Product412,Men,Make-up
+Product413,Unisex,Accessories
+Product414,Unisex,Make-up
+Product415,Women,Hair Care
+Product416,Men,Hair Care
+Product417,Women,Accessories
+Product418,Men,Accessories
+Product419,Women,Make-up
+Product420,Family,Skincare
+Product421,Unisex,Make-up
+Product422,Men,Accessories
+Product423,Men,Accessories
+Product424,Unisex,Perfume
+Product425,Men,Accessories
+Product426,Men,Perfume
+Product427,Women,Skincare
+Product428,Men,Make-up
+Product429,Family,Make-up
+Product430,Family,Perfume
+Product431,Unisex,Make-up
+Product432,Men,Accessories
+Product433,Unisex,Hair Care
+Product434,Family,Perfume
+Product435,Men,Make-up
+Product436,Men,Perfume
+Product437,Unisex,Perfume
+Product438,Family,Hair Care
+Product439,Men,Accessories
+Product440,Unisex,Perfume
+Product441,Family,Make-up
+Product442,Unisex,Skincare
+Product443,Women,Perfume
+Product444,Men,Perfume
+Product445,Women,Hair Care
+Product446,Family,Accessories
+Product447,Women,Skincare
+Product448,Women,Make-up
+Product449,Family,Skincare
+Product450,Unisex,Make-up
+Product451,Women,Accessories
+Product452,Unisex,Make-up
+Product453,Women,Hair Care
+Product454,Unisex,Hair Care
+Product455,Family,Hair Care
+Product456,Women,Hair Care
+Product457,Family,Skincare
+Product458,Women,Accessories
+Product459,Family,Make-up
+Product460,Family,Make-up
+Product461,Women,Hair Care
+Product462,Women,Hair Care
+Product463,Women,Perfume
+Product464,Men,Accessories
+Product465,Unisex,Skincare
+Product466,Men,Make-up
+Product467,Men,Perfume
+Product468,Family,Perfume
+Product469,Women,Make-up
+Product470,Unisex,Skincare
+Product471,Family,Perfume
+Product472,Men,Perfume
+Product473,Women,Accessories
+Product474,Family,Skincare
+Product475,Women,Perfume
+Product476,Family,Skincare
+Product477,Women,Make-up
+Product478,Men,Hair Care
+Product479,Unisex,Perfume
+Product480,Men,Accessories
+Product481,Unisex,Make-up
+Product482,Women,Skincare
+Product483,Family,Make-up
+Product484,Men,Perfume
+Product485,Unisex,Skincare
+Product486,Men,Hair Care
+Product487,Unisex,Make-up
+Product488,Men,Perfume
+Product489,Unisex,Accessories
+Product490,Unisex,Skincare
+Product491,Women,Make-up
+Product492,Unisex,Make-up
+Product493,Women,Hair Care
+Product494,Unisex,Hair Care
+Product495,Family,Accessories
+Product496,Family,Accessories
+Product497,Family,Perfume
+Product498,Unisex,Perfume
+Product499,Women,Accessories
+Product500,Women,Accessories
