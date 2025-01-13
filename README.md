@@ -9,4 +9,4 @@ The Dashboard is developed in Power BI. The dataset has been tailored for this u
 You can find all data tables together with data model [here](https://github.com/Kristinawk/project_m2_DataVisualization/tree/main/data).
 
 # Insights
-<img src="https://github.com/Kristinawk/project_m2_DataVisualization/blob/main/visualization/actionable%20insights.png" width="300" />
+<img src="https://github.com/Kristinawk/project_m2_DataVisualization/blob/main/visualization/actionable%20insights.png" width="600" />
