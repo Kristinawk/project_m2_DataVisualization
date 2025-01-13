@@ -1,11 +1,11 @@
 # project_m2_DataVisualization
-BI Dashboard | Perfume Business | Commercial Analysis  
+Power BI Dashboard | Perfume Business Insights
 <img src="https://github.com/Kristinawk/project_m2_DataVisualization/blob/main/visualization/actionable%20insights.png" width="400" />
 
 # Purpose
 The outcome of this project is an interactive Dashboard intended to deliver actionable insights to the business. It is about Perfume Worldwide Enterprise and the target audience are Sales Director and Region/Store Sales Managers; Product/Promotion Managers; Marketing Managers; and Customer Relationships Manager.  
 
-The Dashboard is developed in **Power BI**. The dataset has been tailored for this use case. The Dashboard is the result of combining different data tables into a normalized [data model](https://github.com/Kristinawk/project_m2_DataVisualization/blob/main/data/Data%20model.png) that fits the pre-defined [functional design mockup]().  
+The Dashboard is developed in **Power BI**. The dataset has been tailored for this use case. The Dashboard is the result of combining different data tables into a normalized [data model](https://github.com/Kristinawk/project_m2_DataVisualization/blob/main/data/Data%20model.png) that fits the pre-defined [functional design mockup](https://github.com/Kristinawk/project_m2_DataVisualization/blob/main/visualization/functional%20design%20mockup.png).  
 
 The Dashboard shows two sets of commercial KPIs: Order counting and Turnover/Discounts. The Order Counting aims de explain how the value is generated from Visits to Orders. The Order Value is discomposed into _(Visits * Conversion Rate) * Average Order Value_, where Conversion Rate is a ratio of Orders by Visits. This allows to identify growth levers and take action. All metrics are dynamic and can be filtered by period and region/store. Additionally, all KPIs are compared to last year to give context to the data.
 
@@ -64,6 +64,7 @@ Ensure Power BI Desktop is installed. Access the dashboard [here](https://github
 │  
 └───visualization  <div style="padding-left: 60px;">
 │       actionable insights.png  
-│       Project_m2_powerBI.pbix </div> 
+│       Project_m2_powerBI.pbix  
+│       functional design mokcup.png </div> 
 
 
