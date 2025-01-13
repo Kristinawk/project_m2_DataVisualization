@@ -1,6 +1,6 @@
 # project_m2_DataVisualization
 BI Dashboard | Perfume Business | Commercial Analysis  
-<img src="https://github.com/Kristinawk/project_m2_DataVisualization/blob/main/visualization/actionable%20insights.png" width="350" />
+<img src="https://github.com/Kristinawk/project_m2_DataVisualization/blob/main/visualization/actionable%20insights.png" width="400" />
 
 # Purpose
 The outcome of this project is an interactive Dashboard intended to deliver actionable insights to the business. It is about Perfume Worldwide Enterprise and the target audience are Sales Director and Region/Store Sales Managers; Product/Promotion Manager; and Customer Relationships Managers.  
