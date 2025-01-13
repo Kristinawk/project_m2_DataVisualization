@@ -14,21 +14,22 @@ The dataset consists of csv files. You can find all data tables [here](https://g
 
 # Insights
 * **Order counting**: 
-Visits, Conversion Rate and Average Order Value are growth drivers for Order Value. The Dashboard shows a decrease in Visits and Conversion Rate. By Contrary, Average Order value has increased but not enough to compensate the negative impact of the other two levers. This gives a "call to action" for Commercial and Marketing departments. With proper context in mind (e.g. price strategy, customer behaviour, etc.) they need to turn around the negative trend.
+Visits, Conversion Rate and Average Order Value are growth drivers for Order Value. The Dashboard shows a decrease in Visits and Conversion Rate. By contrary, Average Order value has increased but not enough to compensate the negative impact of the other two levers. This gives a "call to action" to Commercial and Marketing departments. With proper context in mind (e.g. price strategy, customer behaviour, etc.) they need to turn around the negative trend.
 
 * **Turnover**:
-One of the aims of the business is to increase the top-line. This why it is crucial to monitorize the Turnover. The Dashboard shows that in current year the Turnover is equal to last year. If there are growth or expansion planes in the organization, it might be not an expected result. The business usually has the right context to interpret the results and act in consecuence. The Dashboard provides all necesary details (month, region, store, product...) in a user-friendly and efficient way.
+One of the aims of the business is to increase the top-line. This why it is crucial to monitorize the Turnover. The Dashboard shows that in current year the Turnover is equal to last year. If there are growth or expansion plans in the organization, it might be not an expected result. The business usually has the right context to interpret the results and act in consecuence. The Dashboard provides all necesary details (month, region, store, product...) in a user-friendly and efficient way.
 
 * **Discounts**:
 Discounts are used as a tool to drive visits, increase sales and keep stock levels under control. But they need to be well-disgned and balanced as they also decrease gross profit. The Dashboard shows what promotion types are the most used and their Discount Value as percentage of Turnover. If Disciount percentage is too high, it migh be an indicator of a non-profitable promotion.
 
 * **Product Mix**:
-Right product offer is the key of success. Therefore it is crucial to have a good understanding of product mix and best sellers. This affects not only Commerical deparments but also the whole Supply Chain. The Dashboard shows that some product categories with high busienss share are decreasing vs last year. The business should concentrait their efforts into solving this.
+Right product offer is the key of success. Therefore it is crucial to have a good understanding of product mix and best sellers. This affects not only Commerical deparments but also the whole Supply Chain. The Dashboard shows that some product categories with high business share are decreasing vs last year. The business should concentrait their efforts into solving this.
 
-In summary, the Dashboard shows some points of attention that require immediate action: visits and conversion rate are falling, some key-product categories are decreasing, and growth target and/or expansion plans need to be revised and reinforced in the organization.
+In summary, the Dashboard shows some points of attention that require immediate action: visits and conversion rate are falling, some key-product categories are decreasing, growth target and/or expansion plans need to be revised and reinforced in the organization.
 
 # Built With
-DBdiagram - for data model mock-up  
+DBdiagram - for data model mockup  
+Excalidraw - for functional design mockup
 Power BI Desktop - for data model development and BI Dashboard  
 Python - for data exploration and data quality check
 
@@ -36,7 +37,7 @@ Python - for data exploration and data quality check
 Ensure Power BI Desktop is installed. Access the dashboard [here](https://github.com/Kristinawk/project_m2_DataVisualization/blob/main/visualization/Project_m2_powerBI.pbix).
 
 # Folders structure
-└──  project_m2_DataVisualization
+└──  project_m2_DataVisualization  
 │  
 │   .gitignore  
 │   README.md  
@@ -64,3 +65,5 @@ Ensure Power BI Desktop is installed. Access the dashboard [here](https://github
 └───visualization  <div style="padding-left: 60px;">
 │       actionable insights.png  
 │       Project_m2_powerBI.pbix </div> 
+
+
