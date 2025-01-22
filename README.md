@@ -41,34 +41,34 @@ Python - for data exploration and data quality check
 Ensure Power BI Desktop is installed. Access the dashboard [here](https://github.com/Kristinawk/project_m2_DataVisualization/blob/main/visualization/Project_m2_powerBI.pbix).
 
 # Folders structure
-└──  project_m2_DataVisualization  
-│  
-│   .gitignore  
-│   README.md  
-│  
-├───archive  
-│  
-├───data  <div style="padding-left: 60px;">
-│       Customers_Table.csv  
-│       Data model.png  
-│       Date_Table.csv  
-│       Marketing_Campaigns_Table.csv  
-│       Orders_Table.csv  
-│       Products_Table.csv  
-│       Promotions_Table.csv  
-│       Stock_Table.csv  
-│       Stores_Table.csv  
-│       Visits_Table.csv  
-│       Weather_Table.csv  
-│       Working_Hours_Table.csv  </div>
-│  
-├───notebooks  <div style="padding-left: 60px;">
-│       data_cleaning&manipulation.ipynb  
-│       data_exploration.ipynb  </div>
-│  
-└───visualization  <div style="padding-left: 60px;">
-│       actionable insights.png  
-│       Project_m2_powerBI.pbix  
-│       functional design mokcup.png </div> 
-
+```md
+└── project_m2_DataVisualization
+    ├───.gitignore
+    ├───README.md
+    │
+    ├───archive
+    │
+    ├───data
+    │       Customers_Table.csv
+    │       Data model.png
+    │       Date_Table.csv
+    │       Marketing_Campaigns_Table.csv
+    │       Orders_Table.csv
+    │       Products_Table.csv
+    │       Promotions_Table.csv
+    │       Stock_Table.csv
+    │       Stores_Table.csv
+    │       Visits_Table.csv
+    │       Weather_Table.csv
+    │       Working_Hours_Table.csv
+    │
+    ├───notebooks
+    │       data_cleaning&manipulation.ipynb
+    │       data_exploration.ipynb
+    │
+    └───visualization
+            actionable insights.png
+            Project_m2_powerBI.pbix
+            functional design mokcup.png
+```
 
